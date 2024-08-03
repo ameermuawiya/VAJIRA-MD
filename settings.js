@@ -11,9 +11,9 @@ const FOOTERNAME = '> 𝐀𝐌𝐄𝐄𝐑 𝐌𝐔𝐀𝐖𝐈𝐘𝐀 - Ｖ4';
 global.owner = process.env.OWNER_NUMBER  || '923423071137' ;  // ADD YOUR NUMBER WITHOUT +
     
 module.exports = {
-SESSION_ID: process.env.SESSION_ID || 'VAJIRA-MD=WNFVDbAA#r-EMSybdk-ZeZGX73dIUiejt6iMNvkSYB_e-KrvbEPM' ,
+SESSION_ID: process.env.SESSION_ID || 'VAJIRA-MD=fANBhJqB#pStbFJhn6JU6ff2mvkw3pWPoVwUUX2YE5J7HnwTh1zU' ,
 travaSend: process.env.TRAVA_SEND || '25' ,   
-MODERATORS : process.env.MODERATORS === undefined ? "94772801923,94787820101" : process.env.MODERATORS ,    
+MODERATORS : process.env.MODERATORS === undefined ? "923472207399,923456148137" : process.env.MODERATORS ,    
 MAX_SIZE: process.env.MAX_SIZE === undefined ? '1536': process.env.MAX_SIZE,/*add this in megabytes*/    
 OWNER_NAME: process.env.OWNER_NAME || '𝐀𝐌𝐄𝐄𝐑 𝐌𝐔𝐀𝐖𝐈𝐘𝐀' ,
 COMMAND_TYPE: process.env.COMMAND_TYPE || 'button' ,
